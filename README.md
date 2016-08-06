@@ -1,5 +1,4 @@
-# 1942
-Remake en Lua / Love2D du jeu 1942
+# 1942 - Remake en Lua / Love2D du jeu 1942
 
 ## Log
 
