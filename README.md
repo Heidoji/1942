@@ -1,7 +1,7 @@
 # 1942
 Remake en Lua / Love2D du jeu 1942
 
-#### Log
+## Log
 
 August, 6, 2016
 
