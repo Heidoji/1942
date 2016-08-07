@@ -10,6 +10,8 @@ Add code ver. 0.0.1
 ### August, 7, 2016
 
 Replace sprites of ennemies 1, 2, 3
+Replace sounds for fire
+
 Add sprites for fire player and enemies
 Add tiles for sea
 
