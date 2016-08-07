@@ -4,7 +4,7 @@
 
 ### August, 6, 2016
 
-Add sprites of player and ennemies 1, 2, 3
+Add sprites of player and ennemies 1, 2, 3\n
 Add code ver. 0.0.1
 
 ### August, 7, 2016
