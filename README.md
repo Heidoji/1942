@@ -7,3 +7,11 @@
 Add sprites of player and ennemies 1, 2, 3
 Add code ver. 0.0.1
 
+### August, 7, 2016
+
+Replace sprites of ennemies 1, 2, 3
+Add sprites for fire player and enemies
+Add tiles for sea
+
+Add code ver. 0.0.2
+
