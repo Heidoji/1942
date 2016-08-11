@@ -17,3 +17,9 @@ Add tiles for sea
 
 Add code ver. 0.0.2
 
+### August, 11, 2016
+
+Add sprite for scoring and life
+
+Add code ver. 0.0.3
+
